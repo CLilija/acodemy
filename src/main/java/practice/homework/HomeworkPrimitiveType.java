@@ -3,8 +3,10 @@ package practice.homework;
 public class HomeworkPrimitiveType {
 
     public static void main(String[] args) {
+        //Integer primitive type
+        int number1 = 10;
 
-        //Double primitive type practice
+        //Double primitive type
         double priceOfBook = 15.99;
         double priceOfPen = 1.99;
         double sumOfPurchases = priceOfBook + priceOfPen;
